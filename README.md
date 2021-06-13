@@ -6,7 +6,7 @@
 
 ```
 mkdir ~/.tmux
-git clone git@github.com:Louiszhai/tmux.git ~/.tmux/tmux-config
+git clone git@github.com:qwerion0725/tmux.git ~/.tmux/tmux-config
 ```
 
 ## Install
